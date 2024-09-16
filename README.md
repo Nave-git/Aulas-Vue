@@ -9,6 +9,8 @@ Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instala
 ```bash
 node -v
 ```
+## Iniciando a instalação de forma global
+
 ```
 npm install -g @vue/cli
 ```
